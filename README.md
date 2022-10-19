@@ -14,6 +14,8 @@ I'm a python developer with excellent problem solving skills. All coding project
 
 -->
 
+---
+
 ## 🧰 Languages and Tools:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
