@@ -26,13 +26,13 @@ I'm a python developer with excellent problem solving skills. All coding project
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" height="40" style="vertical-align:top; margin:4px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" height="60" style="vertical-align:top; margin:4px" />
       
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LATEX" height="40" style="vertical-align:top; margin:4px" />
           
        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" alt="Intellij" height="40" style="vertical-align:top; margin:4px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" alt="Intellij" height="90" style="vertical-align:top; margin:4px" />
           
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS" height="90" style="vertical-align:top; margin:4px"/>
           
           
