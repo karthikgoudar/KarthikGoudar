@@ -2,6 +2,8 @@
 
 I'm a python developer with excellent problem solving skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
+**` Digital Artist (developer) `**
+
 <!--
 **karthikgoudar/KarthikGoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
