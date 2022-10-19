@@ -5,10 +5,10 @@ I'm a python developer with excellent problem solving skills. All coding project
 <!--
 **karthikgoudar/KarthikGoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning - Full Stack Development
+
+-->
 
 ## 🧰 Languages and Tools:
 <p align="center">
