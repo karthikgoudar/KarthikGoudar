@@ -42,11 +42,14 @@ def binary_search():
                 last = mid - 1
             else:
                 first = mid + 1
-
+                
+# Shove answers to the window
     if found == True:
         Label(window, text="Number found in the list", font=('Calibri')).place(x=280,y=200)
     else:
         Label(window, text="Number NOT found in the list", font=('Calibri')).place(x=270,y=250)
+
+  
 
 
 Entry(window,textvariable=e).pack()
