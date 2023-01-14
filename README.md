@@ -1,8 +1,8 @@
 # 🧞‍♂️ Karthik Goudar
 
-**` Digital Artist (developer) `**
+**` Digital Artist (developer) `** **` Passionate Programmer `**
 
-I'm a python developer with excellent problem solving skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a python developer who loves solving problems and appriates coding for the art and science encompassing it.
 
 - 📫 How to reach me? email: karthikgoudar14@gmail.com 
 
