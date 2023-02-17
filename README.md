@@ -14,7 +14,7 @@ I'm a software developer who loves solving problems and appriates coding for the
 
 -->
 
----
+--- 
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
