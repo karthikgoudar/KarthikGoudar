@@ -1,4 +1,4 @@
-# 🧞‍♂️ Karthik Goudar   
+# 🧞‍♂️ Karthik Goudar    
     
 **` Digital Artist (developer) `** **` Passionate Programmer `**   
     
@@ -11,7 +11,7 @@ I'm a software developer who loves solving problems and appriates coding for the
  
  
 - 🌱 I’m currently learning - Full Stack Development 
-
+ 
 -->
 
 --- 
