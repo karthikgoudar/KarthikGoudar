@@ -2,7 +2,7 @@
     
 **` Digital Artist (developer) `** **` Passionate Programmer `**   
      
-I'm a software developer who loves solving problems and appriates coding for the art and science encompassing it.
+I'm a software developer who loves solving problems and appreciates coding for the art and science encompassing it.
   
 - 📫 How to reach me? email: karthikgoudar14@gmail.com    
  
