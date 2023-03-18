@@ -1,4 +1,4 @@
-# 🧞‍♂️ Karthik Goudar     
+# 🧞‍♂️ Karthik Goudar      
      
 **` Digital Artist (developer) `** **` Passionate Programmer `**    
       
