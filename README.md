@@ -4,8 +4,7 @@
       
 I'm a software developer who loves solving problems and appreciates coding for the art and science encompassing it. 
    
-- 📫 How to reach me?
--  email    : karthikgoudar14@gmail.com    
+- 📫 How to reach me? 
 -  website  : [karthikgoudar.github.io](https://karthikgoudar.github.io/)
    
 <!--  
