@@ -6,7 +6,7 @@ I'm a software developer who loves solving problems and appreciates coding for t
      
 ##  How to reach me?  
 -  📫  : karthikgoudar14@gmail.com  
--  🌐  : [karthikgoudar.github.io](https://karthikgoudar.github.io/)  
+-  🌐  : [karthikgoudar.github.io](https://karthikgoudar.github.io/) 
    
 <!--  
 **karthikgoudar/KarthikGoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
