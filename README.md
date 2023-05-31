@@ -1,6 +1,6 @@
 # 🧞‍♂️ Karthik Goudar        
           
-**` Digital Artist (developer) `** **` Passionate Programmer  `**         
+**` Digital Artist (developer) `** **` Passionate Programmer  `**          
             
 I'm a software developer who loves solving problems and appreciates coding for the art and science encompassing it. 
      
